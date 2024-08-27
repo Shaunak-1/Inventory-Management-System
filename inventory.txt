@@ -1,0 +1,4 @@
+1,7 star,50,80
+2,Hoodie,300,95
+3,dumbbells,200,48
+4,perk,10,47
